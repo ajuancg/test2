@@ -11,6 +11,7 @@ const AboutPage = () => (
     <h1>About</h1>
     <p>Now go build something bad.</p>
     <p>
+        <Link to="/about">About</Link>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
     </p>
